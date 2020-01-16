@@ -19,6 +19,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1WGcDcjbUwifRfadNEqDPpXPsZv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -41,7 +42,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.binary_searh_python">
+  <component name="RunManager" selected="Ruby.binary_search_ruby">
     <configuration name="binary_search_js.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chapter_1/binary_search_js.js" working-dir="$PROJECT_DIR$/chapter_1">
       <method v="2" />
     </configuration>
@@ -70,7 +71,7 @@
     <configuration name="binary_search_ruby" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="grokking_algorithm_book" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$PROJECT_DIR$/chapter_1" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/chapter_1" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -81,22 +82,18 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/chapter_1/binary_search_ruby.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/chapter_1/binary_search_ruby.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Node.js.binary_search_js.js" />
-      <item itemvalue="Python.binary_searh_python" />
       <item itemvalue="Ruby.binary_search_ruby" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.binary_searh_python" />
         <item itemvalue="Ruby.binary_search_ruby" />
-        <item itemvalue="Node.js.binary_search_js.js" />
       </list>
     </recent_temporary>
   </component>
@@ -126,6 +123,7 @@
       <workItem from="1578779257087" duration="239000" />
       <workItem from="1578779519401" duration="316000" />
       <workItem from="1578781140410" duration="5368000" />
+      <workItem from="1578883511648" duration="8000" />
     </task>
     <servers />
   </component>
@@ -199,7 +197,6 @@
     <state x="46" y="27" width="1310" height="741" key="new project wizard/46.27.1320.741@46.27.1320.741" timestamp="1578787716332" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/grokking_algorithm_book$binary_searh_python.coverage" NAME="binary_searh_python Coverage Results" MODIFIED="1578788666563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_1" />
     <SUITE FILE_PATH="coverage/grokking_algorithm_book@binary_search_ruby.rcov" NAME="binary_search_ruby Coverage Results" MODIFIED="1578787618798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_1" MODULE_NAME="grokking_algorithm_book" />
   </component>
 </project>
