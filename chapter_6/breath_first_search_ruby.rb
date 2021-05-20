@@ -24,7 +24,7 @@ def search(name)
 		if not searched.include? person
 		#haven’t already searched them.
 			if person_is_seller(person)
-				puts ( person + " is a mango seller!" )
+				puts( person + " is a mango seller!" )
 				return true
 			else
 				search_queue += @graph[person]
